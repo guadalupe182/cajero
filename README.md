@@ -1,2 +1,2 @@
 # cajero
-Una simple aplicacion web simulando el comportamiento de un cajero 
+A simple web application simulating ATM behavior 
